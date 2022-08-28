@@ -28,8 +28,9 @@
         Medicine.)
 
     3. pharma.csv: the file contains a small number of a publicly available list of pharmaceutical violations.
-        For the puposes of this work, we are interested in the second column, Parent Company, which contains the name of the pharmaceutical company in question. (Source: https://violationtracker.
-    goodjobsfirst.org/industry/pharmaceuticals)
+        For the puposes of this work, we are interested in the second column, Parent Company, which 
+        contains the name of the pharmaceutical company in question. 
+        (Source: https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals)
 
     ### Problem statements
 
